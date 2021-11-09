@@ -1,0 +1,4 @@
+django
+feedparser
+django-apscheduler
+python-dateutil==2.8.2
